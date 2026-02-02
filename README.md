@@ -1,0 +1,3 @@
+EngiScan Nexus is a smart web-based recruitment support system designed to solve common problems faced by HR departments during hiring. In many organizations—especially large institutions like hospitals—thousands of resumes are received for a single job position. Due to limited time and human resources, HR teams are unable to properly review every resume, which often leads to suitable candidates being ignored and hiring decisions being made randomly or based on incomplete review.
+
+To address this issue, EngiScan Nexus uses an AI model (Google Gemini) to automatically analyze resumes, evaluate candidates, and help HR teams identify the best-fit candidate for a job role quickly and fairly.
